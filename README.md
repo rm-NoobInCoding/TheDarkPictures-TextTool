@@ -1,3 +1,4 @@
+![Alt text](https://github.com/rm-NoobInCoding/The-Dark-Pictures-Games-Text-Tool/blob/master/tool.png?raw=true "Title")
 # The-Dark-Pictures-Games-Text-Tool
 A tool for extracting and importing uexp files of The Dark Pictures games.
 
