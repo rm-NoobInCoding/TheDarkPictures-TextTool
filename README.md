@@ -2,16 +2,9 @@
 A tool for extracting and importing uexp files of The Dark Pictures games.
 
 
-
-
-
-
-
 # Supported Versions:
 *Little Hope (2020)
 *House of Ashes (2021)
-
-
 
 
 
