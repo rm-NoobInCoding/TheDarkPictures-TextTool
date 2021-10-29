@@ -1,0 +1,10 @@
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\bin\Debug\The Dark Pictures.exe.config
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\bin\Debug\The Dark Pictures.exe
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\bin\Debug\The Dark Pictures.pdb
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The_Dark_Pictures.Form1.resources
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The_Dark_Pictures.Properties.Resources.resources
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.csproj.GenerateResource.cache
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.csproj.CoreCompileInputs.cache
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.exe
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.pdb
+C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.csprojAssemblyReference.cache
