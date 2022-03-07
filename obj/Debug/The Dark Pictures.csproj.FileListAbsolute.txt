@@ -8,3 +8,14 @@ C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictu
 C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.exe
 C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.pdb
 C:\Users\1001\source\repos\Text Tools\The Dark Pictures\obj\Debug\The Dark Pictures.csprojAssemblyReference.cache
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\bin\Debug\The Dark Pictures.exe.config
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\bin\Debug\The Dark Pictures.exe
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\bin\Debug\The Dark Pictures.pdb
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The Dark Pictures.csproj.AssemblyReference.cache
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The Dark Pictures.csproj.SuggestedBindingRedirects.cache
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The_Dark_Pictures.Main.resources
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The_Dark_Pictures.Properties.Resources.resources
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The Dark Pictures.csproj.GenerateResource.cache
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The Dark Pictures.csproj.CoreCompileInputs.cache
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The Dark Pictures.exe
+C:\Users\1001\source\repos\The-Dark-Pictures-Games-Text-Tool\obj\Debug\The Dark Pictures.pdb
