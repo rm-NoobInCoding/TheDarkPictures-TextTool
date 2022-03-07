@@ -26,6 +26,7 @@ namespace The_Dark_Pictures
                 button1.Text = "Export";
                 button2.Enabled = true;
                 button1.Enabled = true;
+                MessageBox.Show("Done!");
             }
 
 
@@ -46,6 +47,7 @@ namespace The_Dark_Pictures
                 button2.Text = "Import";
                 button2.Enabled = true;
                 button1.Enabled = true;
+                MessageBox.Show("Done!");
             }
 
         }

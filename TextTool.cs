@@ -84,8 +84,8 @@ namespace The_Dark_Pictures
         public static void Import(string TextFilename)
         {
             string[] TextFile = File.ReadAllLines(TextFilename);
-            string uexpfilename = Path.GetFileNameWithoutExtension(TextFilename);
-            string uassetfilename = Path.GetFileNameWithoutExtension(uexpfilename)+".uasset";
+            string uexpfilename = Path.GetDirectoryName(TextFilename) +"\\"+ Path.GetFileNameWithoutExtension(TextFilename);
+            string uassetfilename = Path.GetDirectoryName(TextFilename) + "\\" + Path.GetFileNameWithoutExtension(uexpfilename)+".uasset";
             int l = 0;
             UexpFile file = new UexpFile();
             using (BinaryReader br = new BinaryReader(File.OpenRead(uexpfilename)))
