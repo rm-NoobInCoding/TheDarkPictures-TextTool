@@ -216,22 +216,5 @@ namespace The_Dark_Pictures
             Buffer.BlockCopy(newByte, 0, bytes, bArray.Length, newByte.Length);
             return bytes;
         }
-        public static void ShowHelp()
-        {
-            string HelpText = @"The Dark Pictures Anthology Text Tool
-By NoobInCoding 
-
-An exporter and importer for uexp files of TDPA games.
-
-SUPPORTED VERSIONS:
-*Little Hope (2020)
-*House of Ashes (2021)
-
-USAGE:
-For export just drag and drop a either a uexp or uasset to the tool. it will save output txt where input file is.
-For import just drag and drop exported txt file to the tool keep in mind that both original uexp and uasset file needed beside the txt file. it will create two new uexp and uasset file where original files are.";
-            Console.WriteLine(HelpText);
-            File.WriteAllText("Readme.txt", HelpText);
-        }
     }
 }
